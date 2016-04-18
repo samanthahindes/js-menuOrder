@@ -12,7 +12,7 @@ function question(questionText) {
 
 // call the QUESTION function with the order options
 question("Do you want a hamburger or a cheese burger")
-question("french fries or animal fries"?);
+question("french fries or animal fries?");
 question("chocolate, strawberry, or vanilla milkshake?");
 
 // output their order
